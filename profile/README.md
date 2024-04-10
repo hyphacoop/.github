@@ -1,11 +1,13 @@
 # Hypha Worker Co-operative
 
-## Hypha collaborates with communities to build better relationships with technology. 
+## About Us  
 
-### What we do
+Hypha is a worker co-operative based in Toronto that collaborates with communities to build better relationships with technology. Our team of technologists, artists, engineers, designers, and community organizers advise on sustainable practices, build capacity within organizations, and develop custom technologies to empower friends and neighbours – in the Great Lakes region and our virtual neighbourhoods.
 
-We propagate community-led stewardship, grow technical capacities, and deliver concepts and products.
+## Work with us  
 
-Our expertise spans ideation to infrastructure. 
+We would love to hear from you about new projects, partnerships, and collaborations.
 
-[Visit Dripline](https://hypha.coop/dripline/) to read our collective writing.
+Email [hello@hypha.coop](mailto:hello@hypha.coop) 
+
+
